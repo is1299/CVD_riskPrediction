@@ -4,7 +4,7 @@ Project website for a multimodal deep learning framework for cardiovascular risk
 
 ## Live Project Page
 
-🌐 https://is1299.github.io/site_test/
+🌐 https://is1299.github.io/CVD_riskPrediction/
 
 ## Overview
 
@@ -15,7 +15,6 @@ The work explores feature fusion strategies across imaging and clinical modaliti
 ## Features
 
 - Multimodal CT + EHR learning
-- ClinicalBERT-based text representations
 - Deep learning risk prediction pipeline
 - Fusion strategy comparison
 - Interactive research project website
@@ -32,9 +31,9 @@ The work explores feature fusion strategies across imaging and clinical modaliti
 
 ## Links
 
-- 🌐 Live Site: https://is1299.github.io/site_test/
-- 📄 Paper: [Add Paper Link]
-- 💻 Project Repository: [Add Main Repo Link]
+- 🌐 Live Site: [https://is1299.github.io/site_test/](https://is1299.github.io/CVD_riskPrediction/)
+- 📄 Paper: [Radiotherapy and Oncology](https://www.thegreenjournal.com/article/S0167-8140(26)00094-0/fulltext)
+- 💻 Project Code: email: isshah12@student.ubc.ca
 
 ## Citation
 
