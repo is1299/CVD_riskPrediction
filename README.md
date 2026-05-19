@@ -1,78 +1,48 @@
-# Academic Project Page Template
+# Multimodal Cardiovascular Risk Prediction
 
-> **Update (September 2025)**: This template has been modernized with better design, SEO, and mobile support. For the original version, see the [original-version branch](https://github.com/eliahuhorwitz/Academic-project-page-template/tree/original-version).
+Project website for a multimodal deep learning framework for cardiovascular risk prediction in breast cancer patients using CT imaging and electronic health records.
 
-A clean, responsive template for academic project pages.
+## Live Project Page
 
+🌐 https://is1299.github.io/site_test/
 
-Example project pages built using this template are:
-- https://horwitz.ai/probex
-- https://vision.huji.ac.il/probegen
-- https://horwitz.ai/mother
-- https://horwitz.ai/spectral_detuning
-- https://vision.huji.ac.il/ladeda
-- https://vision.huji.ac.il/dsire
-- https://horwitz.ai/podd
-- https://dreamix-video-editing.github.io
-- https://horwitz.ai/conffusion
-- https://horwitz.ai/3d_ads/
-- https://vision.huji.ac.il/ssrl_ad
-- https://vision.huji.ac.il/deepsim
+## Overview
 
+This project presents a multimodal AI pipeline that combines radiotherapy planning CT scans with EHR-derived clinical information to predict cardiovascular mortality risk in breast cancer patients.
 
+The work explores feature fusion strategies across imaging and clinical modalities for large-scale patient-level risk stratification.
 
-## Start using the template
-To start using the template click on `Use this Template`.
+## Features
 
-The template uses html for controlling the content and css for controlling the style. 
-To edit the websites contents edit the `index.html` file. It contains different HTML "building blocks", use whichever ones you need and comment out the rest.  
+- Multimodal CT + EHR learning
+- ClinicalBERT-based text representations
+- Deep learning risk prediction pipeline
+- Fusion strategy comparison
+- Interactive research project website
+- Visualization of model performance and architecture
 
-**IMPORTANT!** Make sure to replace the `favicon.ico` under `static/images/` with one of your own, otherwise your favicon is going to be a dreambooth image of me.
+## Tech Stack
 
-## What's New
+- Python
+- PyTorch
+- ClinicalBERT
+- Medical Imaging AI
+- HTML/CSS/JavaScript
+- GitHub Pages
 
-- Modern, clean design with better mobile support
-- Improved SEO with proper meta tags and structured data
-- Performance improvements (lazy loading, optimized assets)
-- More Works dropdown
-- Copy button for BibTeX citations
-- Better accessibility
+## Links
 
-## Components
+- 🌐 Live Site: https://is1299.github.io/site_test/
+- 📄 Paper: [Add Paper Link]
+- 💻 Project Repository: [Add Main Repo Link]
 
-- Teaser video
-- Image carousel
-- YouTube video embedding
-- Video carousel
-- PDF poster viewer
-- BibTeX citation
+## Citation
 
-## Customization
+If you find this work useful, please cite the associated publication.
 
-The HTML file has TODO comments showing what to replace:
+## License
 
-- Paper title, authors, institution, conference
-- Links (arXiv, GitHub, etc.)
-- Abstract and descriptions  
-- Videos, images, and PDFs
-- Related works in the dropdown
-- Meta tags for SEO and social sharing
-
-### Meta Tags
-The template includes meta tags for better search engine visibility and social media sharing. These appear in the `<head>` section and help with:
-- Google Scholar indexing
-- Social media previews (Twitter, Facebook, LinkedIn)
-- Search engine optimization
-
-Create a 1200x630px social preview image at `static/images/social_preview.png`.
-
-## Tips
-
-- Compress images with [TinyPNG](https://tinypng.com)
-- Use YouTube for large videos (>10MB)  
-- Replace the favicon in `static/images/`
-- Works with GitHub Pages
-
+This repository contains the project website and presentation materials for the research project.
 ## Acknowledgments
 Parts of this project page were adopted from the [Nerfies](https://nerfies.github.io/) page.
 
